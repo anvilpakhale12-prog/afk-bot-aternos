@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OPS_SMP_S4.aternos.me",
+    "ip": "OPS_SMP_S4.aternos.me:14171",
     "port": 14171,
     "version": "1.21.11"
   },
